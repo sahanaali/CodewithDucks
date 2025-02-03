@@ -1,2 +1,2 @@
 # CodewithDucks
-This project
+Acquired by Stevens Institute of Technology 
