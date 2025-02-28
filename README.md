@@ -8,4 +8,6 @@ In this project, I designed the UI/UX experience for the app, creating wireframe
 Additionally, I designed a website for a non-profit organization, providing UI design to support the non-profit's mission. I worked on both low-fidelity (lo-fi) and high-fidelity (hi-fi) wireframes to guide the development of the UI in Next.js, ensuring the designs were accessible, interactive, and engaging for users
 
 Here is the Figma Prototype: https://www.figma.com/proto/sfZe2V9qNwPZWotW9tjTo1/CodewithDucks?node-id=0-1&t=FL2eYZIOkABvLksN-1
+
+
 Figma File: https://www.figma.com/design/sfZe2V9qNwPZWotW9tjTo1/CodewithDucks?node-id=0-1&m=dev&t=FL2eYZIOkABvLksN-1
